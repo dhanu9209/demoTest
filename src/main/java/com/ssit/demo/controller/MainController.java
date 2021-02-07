@@ -9,5 +9,9 @@ public class MainController {
 	public String helloword() {
 		return "Hello World";
 	}
+	
+	public String helloWorld2() {
+		return "Hello World2";
+	}
 
 }
